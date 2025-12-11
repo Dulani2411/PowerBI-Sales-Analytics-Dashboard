@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing 3 years of sales data (2015-2017) with comprehensive insights into revenue, customer behavior, and product performance.
 
-![Executive Dashboard](Screenshots/01_Executive_Dashboard.png)
+![Executive Dashboard](https://github.com/Dulani2411/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%202025-12-10%20225445.png)
 
 ---
 
