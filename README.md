@@ -85,7 +85,7 @@ Customer LTV =
 DIVIDE([Total Revenue], [Total Customers], 0)
 ```
 
-[See complete DAX code →](DAX_Measures/DAX_Code.txt)
+[See complete Model view →]([DAX_Measures/DAX_Code.txt](https://github.com/Dulani2411/PowerBI-Sales-Analytics-Dashboard/blob/main/Model%20view.png))
 
 ### Data Sources
 - Sales transactions (2015-2017)
@@ -99,17 +99,17 @@ DIVIDE([Total Revenue], [Total Customers], 0)
 ## 📊 Dashboard Pages
 
 ### Page 1: Executive Dashboard
-![Executive Dashboard]("C:\Users\User\Pictures\Screenshots\powerbi\Screenshot 2025-12-10 225408.png")
+![Executive Dashboard]("[C:\Users\User\Pictures\Screenshots\powerbi\Screenshot 2025-12-10 225408.png](https://github.com/Dulani2411/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%202025-12-10%20225445.png)")
 
 High-level overview with critical KPIs for C-suite decision makers.
 
 ### Page 2: Sales Performance Analysis
-![Sales Performance]("C:\Users\User\Pictures\Screenshots\powerbi\Screenshot 2025-12-10 225426.png")
+![Sales Performance]("[C:\Users\User\Pictures\Screenshots\powerbi\Screenshot 2025-12-10 225426.png](https://github.com/Dulani2411/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%202025-12-10%20225426.png)")
 
 Deep dive into sales patterns, product performance, and profitability.
 
 ### Page 3: Customer & Returns Analysis
-![Customer & Returns]("C:\Users\User\Pictures\Screenshots\powerbi\Screenshot 2025-12-10 225445.png")
+![Customer & Returns]("[C:\Users\User\Pictures\Screenshots\powerbi\Screenshot 2025-12-10 225445.png](https://github.com/Dulani2411/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%202025-12-10%20225408.png)")
 
 Customer segmentation, demographics, and quality control insights.
 
