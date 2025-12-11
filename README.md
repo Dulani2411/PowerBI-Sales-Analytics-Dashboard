@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing 3 years of sales data (2015-2017) with comprehensive insights into revenue, customer behavior, and product performance.
 
-![Executive Dashboard](Screenshots/01_Executive_Dashboard.png)
+![Executive Dashboard]("C:\Users\User\Pictures\Screenshots\powerbi")
 
 ---
 
@@ -53,7 +53,7 @@ This project demonstrates end-to-end business intelligence solution development,
 - **Relationships:** Properly configured with appropriate cardinality
 - **Grain:** Transaction-level detail
 
-![Data Model](Data_Model/Data_Model_Diagram.png)
+![Data Model]("C:\Users\User\Pictures\Screenshots\Screenshot 2025-12-10 230326.png")
 
 ### DAX Measures (Key Examples)
 ```dax
@@ -99,17 +99,17 @@ DIVIDE([Total Revenue], [Total Customers], 0)
 ## 📊 Dashboard Pages
 
 ### Page 1: Executive Dashboard
-![Executive Dashboard](Screenshots/01_Executive_Dashboard.png)
+![Executive Dashboard]("C:\Users\User\Pictures\Screenshots\powerbi\Screenshot 2025-12-10 225408.png")
 
 High-level overview with critical KPIs for C-suite decision makers.
 
 ### Page 2: Sales Performance Analysis
-![Sales Performance](Screenshots/02_Sales_Performance.png)
+![Sales Performance]("C:\Users\User\Pictures\Screenshots\powerbi\Screenshot 2025-12-10 225426.png")
 
 Deep dive into sales patterns, product performance, and profitability.
 
 ### Page 3: Customer & Returns Analysis
-![Customer & Returns](Screenshots/03_Customer_Returns.png)
+![Customer & Returns]("C:\Users\User\Pictures\Screenshots\powerbi\Screenshot 2025-12-10 225445.png")
 
 Customer segmentation, demographics, and quality control insights.
 
@@ -256,17 +256,8 @@ Through this project, I developed proficiency in:
 
 ## 📞 Connect With Me
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile URL]
-- 📧 **Email:** your.email@example.com
-- 🌐 **Portfolio:** [Your Website if you have one]
-- 📊 **Tableau Public:** [If you have Tableau projects]
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
+- 💼 **LinkedIn:** [(http://linkedin.com/in/dulani-ns)]
+- 📧 **Email:** dulanins3@gmail.com
 ---
 
 ## 🙏 Acknowledgments
@@ -297,85 +288,3 @@ If you found this project helpful or interesting, please consider:
 
 ---
 
-## 🎯 **PART 4: UPLOAD FILES**
-
-### **Step 3: Create Folders and Upload Screenshots**
-
-1. **Create Screenshots folder:**
-   - Click **"Add file"** → **"Create new file"**
-   - In filename box, type: `Screenshots/.gitkeep`
-   - Scroll down, click **"Commit changes"**
-
-2. **Upload your 3 screenshots:**
-   - Go to **Screenshots** folder
-   - Click **"Add file"** → **"Upload files"**
-   - Drag and drop your 3 dashboard images:
-     - 01_Executive_Dashboard.png
-     - 02_Sales_Performance.png
-     - 03_Customer_Returns.png
-   - Click **"Commit changes"**
-
-3. **Create Data_Model folder:**
-   - Click **"Add file"** → **"Create new file"**
-   - Type: `Data_Model/.gitkeep`
-   - Commit
-
-4. **Upload Data Model image:**
-   - Go to Data_Model folder
-   - Upload your Image 4 (data model diagram)
-   - Rename to: `Data_Model_Diagram.png`
-
-5. **Create DAX_Measures folder:**
-   - Create file: `DAX_Measures/DAX_Code.txt`
-   - Paste your DAX code from Image 5
-   - Commit
-
----
-
-## 🎯 **PART 5: ADD PROFESSIONAL TOUCHES**
-
-### **Create a .gitignore file:**
-
-1. Click **"Add file"** → **"Create new file"**
-2. Name: `.gitignore`
-3. Paste this:
-```
-# Power BI files
-*.pbix.tmp
-*.pbit
-
-# Backup files
-~$*
-
-# Windows files
-Thumbs.db
-desktop.ini
-
-# Mac files
-.DS_Store
-
-# Sensitive data
-*_sensitive*
-*_confidential*
-```
-
-4. Commit
-
----
-
-### **Add GitHub Topics (Tags):**
-
-1. On your repository main page
-2. Click **⚙️ (settings gear)** next to "About"
-3. Add topics:
-```
-   powerbi
-   data-analytics
-   business-intelligence
-   data-visualization
-   dax
-   dashboard
-   portfolio
-   data-analysis
-   power-query
-   bi-dashboard
