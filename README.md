@@ -109,7 +109,8 @@ High-level overview with critical KPIs for C-suite decision makers.
 Deep dive into sales patterns, product performance, and profitability.
 
 ### Page 3: Customer & Returns Analysis
-![Customer & Returns]("[C:\Users\User\Pictures\Screenshots\powerbi\Screenshot 2025-12-10 225445.png](https://github.com/Dulani2411/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%202025-12-10%20225408.png)")
+![Customer & Returns]("https://github.com/Dulani2411/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%202025-12-10%20225445.png
+")
 
 Customer segmentation, demographics, and quality control insights.
 
