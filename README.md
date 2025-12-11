@@ -99,7 +99,7 @@ DIVIDE([Total Revenue], [Total Customers], 0)
 ## 📊 Dashboard Pages
 
 ### Page 1: Executive Dashboard
-![Executive Dashboard]("[(https://github.com/Dulani2411/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%202025-12-10%20225408.png)]")
+![Executive Dashboard]("https://github.com/Dulani2411/PowerBI-Sales-Analytics-Dashboard/blob/main/Screenshot%202025-12-10%20225408.png")
 
 High-level overview with critical KPIs for C-suite decision makers.
 
