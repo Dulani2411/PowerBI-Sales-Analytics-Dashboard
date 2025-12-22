@@ -165,30 +165,6 @@ Customer segmentation, demographics, and quality control insights.
 
 ---
 
-## 🚀 How to Use This Dashboard
-
-### Prerequisites
-- Microsoft Power BI Desktop (Free download from Microsoft)
-- Windows 10/11 (Power BI Desktop is Windows-only)
-
-### Installation Steps
-
-1. **Download the PBIX file:**
-```
-   [Link to Dashboard.pbix if you upload it]
-```
-
-2. **Open with Power BI Desktop:**
-   - Double-click the `.pbix` file
-   - OR Open Power BI Desktop → File → Open → Select file
-
-3. **Interact with the Dashboard:**
-   - Use slicers to filter by Year, Category, Region
-   - Click on visuals to cross-filter other charts
-   - Hover over data points for detailed tooltips
-   - Drill through for detailed analysis
-
----
 
 ## 📂 Repository Structure
 ```
@@ -282,10 +258,4 @@ If you found this project helpful or interesting, please consider:
 
 **Status:** ✅ Complete
 
----
-
-*Made with ❤️ and Power BI*
-```
-
----
 
